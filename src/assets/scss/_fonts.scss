@@ -1,0 +1,64 @@
+// BOLD
+@font-face {
+	font-family: 'Grtsk Giga';
+	src: url('@/assets/fonts/GrtskGiga-BoldItalic.eot');
+	src: local('Grtsk Giga Bold Italic'), local('GrtskGiga-BoldItalic'),
+	url('@/assets/fonts/GrtskGiga-BoldItalic.eot?#iefix') format('embedded-opentype'),
+	url('@/assets/fonts/GrtskGiga-BoldItalic.woff2') format('woff2'),
+	url('@/assets/fonts/GrtskGiga-BoldItalic.woff') format('woff'),
+	url('@/assets/fonts/GrtskGiga-BoldItalic.ttf') format('truetype');
+	font-weight: bold;
+	font-style: italic;
+}
+
+// Bold italic
+@font-face {
+	font-family: 'Grtsk Giga';
+	src: url('@/assets/fonts/GrtskGiga-Bold.eot');
+	src: local('Grtsk Giga Bold'), local('GrtskGiga-Bold'),
+	url('@/assets/fonts/GrtskGiga-Bold.eot?#iefix') format('embedded-opentype'),
+	url('@/assets/fonts/GrtskGiga-Bold.woff2') format('woff2'),
+	url('@/assets/fonts/GrtskGiga-Bold.woff') format('woff'),
+	url('@/assets/fonts/GrtskGiga-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+// Semibold
+@font-face {
+	font-family: 'Grtsk Giga';
+	src: url('@/assets/fonts/GrtskGiga-Semibold.eot');
+	src: local('Grtsk Giga Semibold'), local('GrtskGiga-Semibold'),
+	url('@/assets/fonts/GrtskGiga-Semibold.eot?#iefix') format('embedded-opentype'),
+	url('@/assets/fonts/GrtskGiga-Semibold.woff2') format('woff2'),
+	url('@/assets/fonts/GrtskGiga-Semibold.woff') format('woff'),
+	url('@/assets/fonts/GrtskGiga-Semibold.ttf') format('truetype');
+	font-weight: 600;
+	font-style: normal;
+}
+
+// Semibold italic
+@font-face {
+	font-family: 'Grtsk Giga';
+	src: url('@/assets/fonts/GrtskGiga-SemiboldItalic.eot');
+	src: local('Grtsk Giga Semibold Italic'), local('GrtskGiga-SemiboldItalic'),
+	url('@/assets/fonts/GrtskGiga-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+	url('@/assets/fonts/GrtskGiga-SemiboldItalic.woff2') format('woff2'),
+	url('@/assets/fonts/GrtskGiga-SemiboldItalic.woff') format('woff'),
+	url('@/assets/fonts/GrtskGiga-SemiboldItalic.ttf') format('truetype');
+	font-weight: 600;
+	font-style: italic;
+}
+
+// Regular
+@font-face {
+	font-family: 'Grtsk Giga';
+	src: url('@/assets/fonts/GrtskGiga-Regular.eot');
+	src: local('Grtsk Giga Regular'), local('GrtskGiga-Regular'),
+	url('@/assets/fonts/GrtskGiga-Regular.eot?#iefix') format('embedded-opentype'),
+	url('@/assets/fonts/GrtskGiga-Regular.woff2') format('woff2'),
+	url('@/assets/fonts/GrtskGiga-Regular.woff') format('woff'),
+	url('@/assets/fonts/GrtskGiga-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
